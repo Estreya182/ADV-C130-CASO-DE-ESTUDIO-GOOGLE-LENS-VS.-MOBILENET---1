@@ -1,1 +1,1 @@
-# ADV-C130-CASO-DE-ESTUDIO-GOOGLE-LENS-VS.-MOBILENET---1
+# googlelens-vs-mobilenet
